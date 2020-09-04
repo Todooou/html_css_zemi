@@ -1,0 +1,81 @@
+section {
+  border: 2px black solid;
+  margin-bottom: 150px;
+  height: 400px;
+}
+
+/* first */
+/* 課題1 */
+.box1 {
+
+}
+.box2 {
+
+}
+.box3 {
+
+}
+.box4 {
+
+}
+
+/* second */
+/* 課題2 */
+.box5 {
+  background-color: yellow;
+}
+/* 課題3 */
+.box6 {
+  background-color: hotpink;
+}
+/* 課題4 */
+.box7 {
+  background-color: blue;
+}
+/* 課題5 */
+.box-flex {
+
+}
+.box8 {
+  background-color: bisque;
+}
+.box9 {
+  background-color: slategray;
+}
+.box10 {
+  background-color: lightgreen;
+}
+
+/* third */
+.third {
+  position: relative;
+}
+/* 課題6 */
+.box11 {
+  background-color: lightsalmon;
+}
+/* 課題7 */
+.box12 {
+  background-color: red;
+  height: 30px;
+  width: 100px;
+}
+/* 課題8 */
+.box13 {
+  background-color: lightskyblue;
+  height: 50px;
+  width: 50px;
+}
+
+/* fourth */
+/* 課題9 */
+.box14 {
+  background-color: olivedrab;
+  width: 100%;
+}
+
+/* fifth */
+/* 課題10 */
+.box15 {
+  background-color: salmon;
+}
